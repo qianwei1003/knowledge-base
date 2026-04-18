@@ -41,3 +41,5 @@ assets/
 *.key
 credentials*
 secrets*
+.workbuddy/
+neodata_token.json
