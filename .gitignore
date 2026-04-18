@@ -1,0 +1,43 @@
+# Obsidian
+.obsidian/
+.trash/
+*.icloud
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+*.swp
+*.swo
+*~
+
+# 敏感文件（根据需要调整）
+# 05-个人区/下的内容可能包含隐私，选择性忽略
+# 05-个人区/
+
+# 临时文件
+*.tmp
+*.temp
+*.log
+
+# 附件和媒体
+附件/
+assets/
+
+# 同步冲突
+*.sync-conflict-*
+
+# 大文件
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# 密码密钥等
+*.pem
+*.key
+credentials*
+secrets*
