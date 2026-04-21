@@ -10,6 +10,8 @@
 CodeBuddy/
 ├── CodeBuddy扩展机制详解.md    # 📖 三大扩展机制的完整说明
 ├── MOC-CodeBuddy.md            # 📑 本索引文件
+├── rules/                      # 📋 自定义 Rules 示例
+│   └── ts-vue-ai-coding.md     # 🎯 TypeScript+Vue AI编程规范（基于实践迭代）
 ├── skills/                     # 💡 自定义 Skills 示例
 │   ├── codebuddy-doc-fetcher/  # 📥 文档获取 Skill
 │   │   └── SKILL.md
